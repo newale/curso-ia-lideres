@@ -1,4 +1,4 @@
-baseURL = 'https://alejandro.earth/'
+baseURL = 'https://alejandro.earth/curso-ia-lideres'
 languageCode = 'es-cl'
-title = 'My New Hugo Site'
+title = 'Inteligencia Artificial para líderes'
 theme="hugo-book"

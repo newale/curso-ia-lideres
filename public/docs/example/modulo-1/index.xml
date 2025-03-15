@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Inteligencia Artificial para líderes</title>
+    <link>http://localhost:1313/curso-ia-lideres/docs/example/modulo-1/</link>
+    <description>Recent content on Inteligencia Artificial para líderes</description>
+    <generator>Hugo</generator>
+    <language>es-cl</language>
+    <atom:link href="http://localhost:1313/curso-ia-lideres/docs/example/modulo-1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introducción a la IA</title>
+      <link>http://localhost:1313/curso-ia-lideres/docs/example/modulo-1/intro-ia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/curso-ia-lideres/docs/example/modulo-1/intro-ia/</guid>
+      <description>&lt;h1 id=&#34;introducción-a-la-ia&#34;&gt;&#xA;  Introducción a la IA&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#introducci%c3%b3n-a-la-ia&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;La inteligencia artificial&amp;hellip;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
